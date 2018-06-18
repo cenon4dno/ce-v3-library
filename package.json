@@ -1,5 +1,5 @@
 {
-  "name": "angular2-library-example",
+  "name": "ce-v3-library",
   "version": "1.0.6",
   "description": "An example repository for building your own Angular 2 library",
   "main": "angular2-library-example.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jhades/angular2-library-seed.git"
+    "url": "git+https://github.com/cenon4dno/ce-v3-library.git"
   },
   "keywords": [
     "Angular",
@@ -17,12 +17,7 @@
     "Library",
     "Seed"
   ],
-  "author": "jhades.dev@gmail.com",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jhades/angular2-library-seed/issues"
-  },
-  "homepage": "https://github.com/jhades/angular2-library-seed#readme",
   "devDependencies": {
     "typescript": "^1.7.5"
   },
