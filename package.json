@@ -28,7 +28,8 @@
     "@angular/http": "2.0.0-rc.1",
     "@angular/platform-browser": "2.0.0-rc.1",
     "@angular/platform-browser-dynamic": "2.0.0-rc.1",
+    "angular2-polyfill": "0.0.32",
     "rxjs": "5.0.0-beta.6",
-    "zone.js":"^0.6.12"
+    "zone.js": "^0.6.12"
   }
 }
